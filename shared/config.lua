@@ -558,6 +558,175 @@ Config.Shells = {
             },
         },
     },
+
+    --purchased shells
+    ["highend1"] = {
+        label = "High End Apartment",
+        hash = `shell_highend`,
+        doorOffset = { x = -1.27, y = -2.08, z = -0.48, h = 358.84, width = 2.0  },
+        stash = {
+            maxweight = 300000, 
+            slots = 50,
+        },
+        imgs = {
+            {
+                url = "https://cdn.discordapp.com/attachments/1101313033684394084/1101714470985809920/entranceandkitchen.webp",
+                label = "Entrance and Kitchen",
+            },
+            {
+                url = "https://cdn.discordapp.com/attachments/1101313033684394084/1101714471329747026/main.webp",
+                label = "Main",
+            },
+            {
+                url = "https://cdn.discordapp.com/attachments/1101313033684394084/1101714471665274980/room1.webp",
+                label = "Room",
+            },
+        },
+    },
+
+    ["highend2"] = {
+        label = "High End Apartment 2",
+        hash = `shell_highendv2`,
+        doorOffset = { x = -1.27, y = -2.08, z = -0.48, h = 358.84, width = 2.0  },
+        stash = {
+            maxweight = 300000, 
+            slots = 50,
+        },
+        imgs = {
+            {
+                url = "https://cdn.discordapp.com/attachments/1101313033684394084/1101714470985809920/entranceandkitchen.webp",
+                label = "Entrance and Kitchen",
+            },
+            {
+                url = "https://cdn.discordapp.com/attachments/1101313033684394084/1101714471329747026/main.webp",
+                label = "Main",
+            },
+            {
+                url = "https://cdn.discordapp.com/attachments/1101313033684394084/1101714471665274980/room1.webp",
+                label = "Room",
+            },
+        },
+    },
+
+    ["apartment1"] = {
+        label = "Apartment 1",
+        hash = `shell_apartment1`,
+        doorOffset = { x = -1.27, y = -2.08, z = -0.48, h = 358.84, width = 2.0  },
+        stash = {
+            maxweight = 300000, 
+            slots = 50,
+        },
+        imgs = {
+            {
+                url = "https://cdn.discordapp.com/attachments/1101313033684394084/1101714470985809920/entranceandkitchen.webp",
+                label = "Entrance and Kitchen",
+            },
+            {
+                url = "https://cdn.discordapp.com/attachments/1101313033684394084/1101714471329747026/main.webp",
+                label = "Main",
+            },
+            {
+                url = "https://cdn.discordapp.com/attachments/1101313033684394084/1101714471665274980/room1.webp",
+                label = "Room",
+            },
+        },
+    },
+
+    ["apartment2"] = {
+        label = "Apartment 2",
+        hash = `shell_apartment2`,
+        doorOffset = { x = -1.27, y = -2.08, z = -0.48, h = 358.84, width = 2.0  },
+        stash = {
+            maxweight = 300000, 
+            slots = 50,
+        },
+        imgs = {
+            {
+                url = "https://cdn.discordapp.com/attachments/1101313033684394084/1101714470985809920/entranceandkitchen.webp",
+                label = "Entrance and Kitchen",
+            },
+            {
+                url = "https://cdn.discordapp.com/attachments/1101313033684394084/1101714471329747026/main.webp",
+                label = "Main",
+            },
+            {
+                url = "https://cdn.discordapp.com/attachments/1101313033684394084/1101714471665274980/room1.webp",
+                label = "Room",
+            },
+        },
+    },
+
+    ["apartment3"] = {
+        label = "Apartment 3",
+        hash = `shell_apartment3`,
+        doorOffset = { x = -1.27, y = -2.08, z = -0.48, h = 358.84, width = 2.0  },
+        stash = {
+            maxweight = 300000, 
+            slots = 50,
+        },
+        imgs = {
+            {
+                url = "https://cdn.discordapp.com/attachments/1101313033684394084/1101714470985809920/entranceandkitchen.webp",
+                label = "Entrance and Kitchen",
+            },
+            {
+                url = "https://cdn.discordapp.com/attachments/1101313033684394084/1101714471329747026/main.webp",
+                label = "Main",
+            },
+            {
+                url = "https://cdn.discordapp.com/attachments/1101313033684394084/1101714471665274980/room1.webp",
+                label = "Room",
+            },
+        },
+    },
+
+    ["garagesmall"] = {
+        label = "Small Garage",
+        hash = `shell_garages`,
+        doorOffset = { x = -1.27, y = -2.08, z = -0.48, h = 358.84, width = 2.0  },
+        stash = {
+            maxweight = 500000, 
+            slots = 50,
+        },
+        imgs = {
+            {
+                url = "https://cdn.discordapp.com/attachments/1101313033684394084/1101714470985809920/entranceandkitchen.webp",
+                label = "Entrance and Kitchen",
+            },
+            {
+                url = "https://cdn.discordapp.com/attachments/1101313033684394084/1101714471329747026/main.webp",
+                label = "Main",
+            },
+            {
+                url = "https://cdn.discordapp.com/attachments/1101313033684394084/1101714471665274980/room1.webp",
+                label = "Room",
+            },
+        },
+    },
+
+    ["garagelarge"] = {
+        label = "Large Garage",
+        hash = `shell_garagel`,
+        doorOffset = { x = -1.27, y = -2.08, z = -0.48, h = 358.84, width = 2.0  },
+        stash = {
+            maxweight = 500000, 
+            slots = 50,
+        },
+        imgs = {
+            {
+                url = "https://cdn.discordapp.com/attachments/1101313033684394084/1101714470985809920/entranceandkitchen.webp",
+                label = "Entrance and Kitchen",
+            },
+            {
+                url = "https://cdn.discordapp.com/attachments/1101313033684394084/1101714471329747026/main.webp",
+                label = "Main",
+            },
+            {
+                url = "https://cdn.discordapp.com/attachments/1101313033684394084/1101714471665274980/room1.webp",
+                label = "Room",
+            },
+        },
+    },
 }
 
 
